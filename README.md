@@ -1,7 +1,5 @@
 # WebDev
-Here, you will find some of the websites created by me.
-<br>
-Author - Prasad Mahankal
+//Author - Prasad Mahankal
 <html>
 <head>
 <title>Hall Ticket</title>
