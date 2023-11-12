@@ -1,38 +1,21 @@
-# WebDev
-//Author - Prasad Mahankal
 <html>
 <head>
-<title>Hall Ticket</title>
-</head><br><br><br>
-<body><body background="https://storage.googleapis.com/blog-images-backup/0*I-sI3u34g0ydRqyA">
-<center><h1><u><font color="blue">HALL TICKET AVAILABILITY</font></u></h1></center>
-<marquee direction="Left" bgcolor="red"><h5><font color="yellow">Welcome to the student portal! The time table for std 10th students is displayed on the school notice board. The students can now collect their hall tickets for the SSC examinations.</font></h5></marquee><br>
-<center><font size="4";font color="black"><br><br>
-<img src="https://i0.wp.com/mahasarkar.co.in/wp-content/uploads/2019/09/Maha-SSC-HSC-Board.jpg" height="150" width="200"><br><br>
-<b><u>Dear students, hall tickets for the upcoming exams are available in the school.<br>
-Please collect them as per the following Time-table:</u></b><br><br>
-<table border="1">
-<tr>
-<th>Div</th>
-<th>Date</th>
-<th>Time</th>
-<th>Room No.</th>
-</tr>
-<tr>
-<td>A</td>
-<td>16/04/2022</td>
-<td>11:00 am to 2:00 pm</td>
-<td>203</td>
-</tr>
-<tr>
-<td>B</td>
-<td>17/04/2022</td>
-<td>11:00 am to 2:00 pm</td>
-<td>206</td>
-</tr>
-</table><br>
-<i><b><u><font color="0000FF">For further queries or information, please contact the school office.</u></b></i>
-</font>
-</center>
-</body>
+<title>bday</title>
+</head>
+<body><br><br><br><br><br><br><br><br><br>
+<center><h1><font color="Yellow"><i><u>HAPPY BIRTHDAY</u></i></font></h1></center><br><br>
+<center><b><i><font size="6">
+This heartfelt wish is just for you<br>
+Today is your special day<br>
+May all the dreams you do pursue<br>
+Be realized in every way<br><br>
+With all the love your heart can hold<br>
+And the utter joy birthdays bring<br>
+May you have a truly special day<br>
+You deserve the best of everything<br><br>
+Wish you a very Happy Birthday with many happy returns of the day!!<br>
+Check this out!!:<A HREF="https://www.archiesonline.com/">Gifts waiting for you!</A>
+</font></i></b></center>
+<center><body background="https://thumbs.dreamstime.com/z/balloon-sky-background-illustration-beautiful-37077793.jpg"></center>
+</body> 
 </html>
